@@ -4,6 +4,12 @@ This package demonstrates that index definitions serialized as full coverage agg
 by the package manager. The serialization is non-standard and the oak index definitions should be
 generated as default aggregates.
 
+Usage
+
+```
+$ mvn package wcmio-content-package:install
+```
+
 References:
 
 - https://issues.apache.org/jira/browse/SLING-12469
